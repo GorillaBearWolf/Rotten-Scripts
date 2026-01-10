@@ -3,7 +3,7 @@ async-generator==1.10
 attrs==20.2.0
 backcall==0.2.0
 bleach==3.2.1
-certifi==2020.6.20
+certifi==2024.7.4
 cffi==1.14.3
 colorama==0.4.4
 cycler==0.10.0
@@ -37,7 +37,7 @@ nest-asyncio==1.4.2
 notebook==6.1.4
 numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
 olefile==0.46
-opencv-python==4.4.0.44
+opencv-python==4.8.1.78
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1602083338010/work
 pandocfilters==1.4.3
